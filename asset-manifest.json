@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/react-payments/static/js/main.79fc3a65.js",
+    "static/media/questionMark.svg": "/react-payments/static/media/questionMark.7e7d319183b2409a13e4a2f1e5a1171d.svg",
+    "index.html": "/react-payments/index.html",
+    "main.79fc3a65.js.map": "/react-payments/static/js/main.79fc3a65.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.79fc3a65.js"
+  ]
+}
