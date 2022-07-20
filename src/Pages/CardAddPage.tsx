@@ -59,6 +59,8 @@ export default function CardAddPage({
     initialCardInfoArray
   );
 
+  fetch("http://localhost:8080").then((response) => console.log(response));
+
   const isCompleteCardNumber =
     cardInfo.cardNumber.join("").length ===
     NUMBER_UNIT_COUNT * NUMBER_UNIT_LENGTH;
